@@ -3,7 +3,7 @@ A utility class to assist with extraction of data types from cicero contracts
 to produce variables and (candidate) data types to assist with creating concerto files
 
 ## Usage
-extractDataTypes.py pathToInputCiceroFile.md --outputfile optionalPathToOuputConcertoFile.cto
+extractDataTypes.py --outputfile optionalPathToOuputConcertoFile.cto pathToInputCiceroFile.md
 """
 
 import re

@@ -10,4 +10,4 @@ This can be achieve by a combination of approaches such as:
   * lookup of data in a list of existing data models from sources such as the Accord Project library at https://templates.accordproject.org/
   
 ## Usage 
-extractDataTypes.py pathToInputCiceroFile.md --outputfile optionalPathToOuputConcertoFile.cto
+extractDataTypes.py --outputfile optionalPathToOuputConcertoFile.cto pathToInputCiceroFile.md
